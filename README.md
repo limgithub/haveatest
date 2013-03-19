@@ -1,0 +1,4 @@
+haveatest
+=========
+
+Have a test.
